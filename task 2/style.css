@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+.container{
+width: 600px;
+margin-left:400px ;
+}
+.head{
+    border-bottom: 1px solid aqua;
+    
+    
+    text-align: center;
+}
+h3{
+    color: red;
+}
